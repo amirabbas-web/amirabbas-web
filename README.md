@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Amirabbas! 👋
 
-<!--
-**amirabbas-web/amirabbas-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm **Amirabbas**, a programmer from Iran.
+💻 I love **programming**, especially **web development** and **Python**.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* 🌐 HTML
+* 🎨 CSS
+
+## 📚 Currently Learning
+
+* ⚡ JavaScript
+* 🔧 Git & GitHub
+* 🌶️ Flask
+
+## 🚀 Upcoming Projects
+
+* 🛒 Online Shop
+* 📝 Todo List
+
+---
+
+🚀 **Always learning, always building!**
+
+👋 Thanks for visiting my profile!
