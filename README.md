@@ -15,11 +15,6 @@
 * 🔧 Git & GitHub
 * 🌶️ Flask
 
-## 🚀 Upcoming Projects
-
-* 🛒 Online Shop
-* 📝 Todo List
-
 ---
 
 🚀 **Always learning, always building!**
