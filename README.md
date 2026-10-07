@@ -8,10 +8,10 @@
 * 🐍 Python
 * 🌐 HTML
 * 🎨 CSS
+* ⚡ JavaScript
 
 ## 📚 Currently Learning
 
-* ⚡ JavaScript
 * 🔧 Git & GitHub
 * 🌶️ Flask
 
